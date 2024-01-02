@@ -1,0 +1,7 @@
+{
+  "name": "ionic-real-state-agency",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
